@@ -1,5 +1,6 @@
 # proxyServer
- Caching, multi-threaded proxy webserver which handling prefetched requests 
+Caching, multi-threaded proxy webserver which handling prefetched requests
+
 ##Author : Rishabh Hastu
  
 What's Implemented?
