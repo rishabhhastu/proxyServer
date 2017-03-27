@@ -1,15 +1,15 @@
 # proxyServer
  Caching, multi-threaded proxy webserver which handling prefetched requests 
- Author : Rishabh Hastu
+##Author : Rishabh Hastu
  
 What's Implemented?
-a. HTTP/1.1
-b. HTTP/1.0
-c. Listening to the client
-d. Parsing the information
-e. Multithreading
-f. Prefetching
-g. Caching
+- HTTP/1.1
+- HTTP/1.0
+- Listening to the client
+- Parsing the information
+- Multithreading
+- Prefetching
+- Caching
 
 Python Version : 3.5
 
