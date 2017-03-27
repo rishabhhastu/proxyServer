@@ -15,7 +15,7 @@ Python Version : 3.5
 
 
 Program Usage:
-         $ python webproxy.py [port] [timeout]
+               $ python webproxy.py [port] [timeout]
 port - [Mandatory] Enter port number between 
 timeout - [Optional] Enter Timeout value for Cache
 
