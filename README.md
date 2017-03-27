@@ -1,7 +1,7 @@
 # proxyServer
 Caching, multi-threaded proxy webserver which handling prefetched requests
 
-##Author : Rishabh Hastu
+## Author : Rishabh Hastu
  
 What's Implemented?
 - HTTP/1.1
